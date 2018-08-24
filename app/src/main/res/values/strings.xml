@@ -1,0 +1,22 @@
+<resources>
+  <string name="app_name">Espresso Tests</string>
+
+  <!-- User details -->
+
+    <!-- Content descriptions -->
+  <string name="cd_user_details_image">User photograph</string>
+  <string name="cd_user_details_phone">Call user</string>
+  <string name="cd_user_details_email">Email user</string>
+  <string name="cd_user_details_address">Route to user location</string>
+  <string name="employees_list">Lista de Usuarios</string>
+  <string name="employee_details">User details</string>
+  <string name="loading">Loading…</string>
+  <string name="login_password">Digite Sua Senha</string>
+  <string name="login_username">Digite Seu Username Ou Email</string>
+  <string name="cd_login_image">Android image</string>
+  <string name="login_button_text">Logar</string>
+    <string name="important">Atenção</string>
+  <string name="validation_message">Campo De Email Ou Senha Inválido</string>
+  <string name="ok">Ok</string>
+  <string name="request_error">There was a error on last request =(</string>
+</resources>
